@@ -1,1 +1,1 @@
-{"version":"1.0.0", "patchnotes":"Fixed Bugs"}
+{"version":"1.0.1", "patchnotes":"Fixed crate not dropping on ground, Fixed plane not spawning and Fixed other small bugs", "filesfixed":"cl_main.lua, sv_main.lua"}
