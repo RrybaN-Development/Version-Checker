@@ -1,1 +1,1 @@
-{"version":"1.0.0", "patchnotes":"", "filesfixed":""}
+{"version":"1.0.1", "patchnotes":"Fixed the logic for using qb-target", "filesfixed":"config.lua, cl_main.lua"}
