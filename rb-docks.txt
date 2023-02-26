@@ -1,1 +1,1 @@
-{"version":"1.0.0", "patchnotes":"", ""}
+{"version":"1.0.0", "patchnotes":"", "filesfixed":""}
