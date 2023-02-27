@@ -1,1 +1,1 @@
-{"version":"1.0.2", "patchnotes":"Fixed crate not showing on other players, and fixed other bugs", "filesfixed":"cl_main.lua, sv_main.lua"}
+{"version":"1.0.3", "patchnotes":"Major Bugs Fix", "filesfixed":"Please Read At: https://docs.rrybandev.com/fivem/qb/air-drop/changelog"}
